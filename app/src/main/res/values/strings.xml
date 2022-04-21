@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">UoB drinking games</string>
+    <string name="logo_desc">A yellow, hammered smiley face</string>
+    <string name="splash_screen_desc">Drinking games bought to you by the University of Birmingham 2016 cohort</string>
+    <string name="guides_button">Guides</string>
+    <string name="guides_desc">For those who need a refresher</string>
+    <string name="play_button">Play</string>
+    <string name="play_desc">For those ready to get silly but forgot to bring cards with them</string>
+    <string name="scroll_view_desc">Scrollable window for the guides for the various drinking games available</string>
+    <string name="f_the_dealer">Kill the Dealer</string>
+    <string name="f_the_dealer_guide">Originally with a slightly less polite name, this game become popular with the bolder alcoholics of the group as there\'s always a risk that you might get absolutely lampooned.
+        Whoever wants to start grabs the full deck of cards, shuffles them, but does not look at them, and is now the "Dealer".\n\nThe Dealer then looks at the top card on the deck, and asks the person
+        to their immediate left to guess the number on the card. If they guess correctly, the Dealer has to drink 10 sips. If not, the Dealer must tell them if the card is higher or lower than their guess, and they get another go.
+        Getting it right the second time means the Dealer must drink 5 sips, and getting it wrong means the player must drink, in sips, the difference between their second guess and the true value of the card.\n\n
+        Once the turn is over, the Dealer must place the card face up on the table (or floor, or where-ever) for all to see. Play progresses anti-clockwise, and nobody manages to guess a card in three consecutive rounds, the "Dealer" also passes anti-clockwise.\n\n
+        Since you have to reveal the cards every round, you can see all the cards that have already been so smart players will figure out what\'s most likely to come up. As the game nears it\'s close the Dealer therefore has less and less chance to get the 3 clean turns in a row required to escape...which gives the game it\'s name.</string>
+    <string name="pyramid">Pyramid</string>
+    <string name="pyramid_diagram_desc">A diagram of the set-up for the game pyramid, with playing cards set out in 7 rows in a diamond formation.</string>
+    <string name="pyramid_guide1">A game of wit, bluffing and sheer liver strength originating in Egypt around 3,000 BC (probably), the sheer hate and rage that pyramid induces is sure to get even the most shy party-goers on their feet, making it an excellent icebreaker.\n\n
+        Each player is dealt 3 cards, and the cards are dealt face down in a "pyramid" (more of a diamond, but unfortunately that name is unfortunately taken in the playing card context) as shown below:</string>
+    <string name="pyramid_guide2">The players then look at their cards, and each get a minute or so to remember them. They must then place them face down on the table, and cannot look at them again until explicitly allowed.\n\n
+        Whoever is acting as the dealer then turns over a card at one end of the pyramid, and this is now the starting point. The turn then begins, lasting until everyone has completed their desired actions.\n\n
+        The aim of the game is to convince someone that you have the card that has just been turned over in your 3 card hand (obviously just the number, the suit or colour don\'t matter), whether or not you actually have it (bluffing is highly encouraged!). If the player believes you, they drink the number of sips as the row of the pyramid you\'re on, as seen in the diagram. If they don\'t, they can call "bullshit", and you have to show them the card from your hand.\n\n
+        The catch is, you haven\'t seen your cards since the start of the game so you have to remember which of the 3 it was! If you can\'t show the player the card (either because you forgot which one it was or were bluffing), you have to drink 2 times the row of the pyramid you\'re on in sips. If you are, then the other player has to.\n\n
+        The game progresses row by row until the last card, which if you\'re using the 7-row format is worth 14 sips if you manage to catch someone out! At the end of the game, the players must in turn correctly identify the cards in their hand. If anyone gets it wrong they have to finish their drink!</string>
+    <string name="connecting_to_server">Connecting to server...</string>
+    <string name="connected">Connected!</string>
+    <string name="online_play">Play online</string>
+    <string name="bluetooth_play">Connect locally using Bluetooth</string>
+    <string name="offline_play">Play with one phone</string>
+    <string name="enter_name_default">Name</string>
+    <string name="permission_warning">You need to accept permissions or change them in settings</string>
+    <string name="bluetooth_join">Scan for nearby games</string>
+    <string name="bluetooth_host">Host a game</string>
+</resources>
